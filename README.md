@@ -15,6 +15,8 @@ Get to the castle in the map to go to the next level, each level has a bigger ma
 
 ## Components
 
+Scene Path: **[Assets/Scenes/MapExtension.unity](Assets/Scenes/MapExtension.unity)**
+
 ### Changed Scripts:
 
 **[TilemapCaveGenerator](Assets/Scripts/4-generation/TilemapCaveGenerator.cs) -** The main script to use on the Tilemap. Responsible for building the tiles. The changes are documented with comments in the file.
